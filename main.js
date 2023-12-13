@@ -14,7 +14,6 @@ function applyCoupon() {
   
   function checkout() {
     alert('Checkout complete! Thank you for shopping with us.');
-    // You may want to perform additional actions here, such as sending the order to the server.
     // Clear the cart after successful checkout
     cart = [];
     renderCart();
