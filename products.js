@@ -10,7 +10,7 @@ const products = [
     { id: 8, name: 'Laptos Sticker', amount: 5.00, imageUrl: 'images/sticker.jpg' },
     { id: 9, name: 'Suit', amount: 120.00, imageUrl: 'images/suit.jpg' },
     { id: 10, name: 'Wool Cloth', amount: 35.00, imageUrl: 'images/wool.jpg' },
-    // Add image URLs for other products as needed
+    
   ];
   
   function renderProducts() {
